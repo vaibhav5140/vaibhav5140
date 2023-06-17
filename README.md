@@ -13,6 +13,14 @@
 <p align="center" width="150px">I am currently a Third Year student at BML Munjal pursuing my B.Tech degree in Computer Science Engineering.</p>
 </p>
 <br>
+<p align="center"><b>Profile Views</b></p>
+
+ 
+<p align="center"><img src="https://profile-counter.glitch.me/%7BSurajPratap10%7D/count.svg" alt="visitor badge"/></p>
+<br>
+
+<p align = "left">
+<img src = "gitartwork.svg" alt = "Gitartwork"></p><br>
 
 <!--
 **vaibhav5140/vaibhav5140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
