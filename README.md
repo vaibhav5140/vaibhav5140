@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 <p align="center"><img src="https://raw.githubusercontent.com/SurajPratap10/SurajPratap10/master/banner.jpg"></p>
 
 <h1 align="center">Hi , I'm Vaibhav Ahuja</h1>
