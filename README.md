@@ -15,9 +15,9 @@
 <br>
 
 <br>
-
+<!--
 <p align = "left">
-<img src = "gitartwork.svg" alt = "Gitartwork"></p><br>
+<img src = "gitartwork.svg" alt = "Gitartwork"></p><br>->
 
 <!--
 **vaibhav5140/vaibhav5140** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
