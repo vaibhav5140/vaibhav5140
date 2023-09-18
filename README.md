@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <br>
-<p align="center" width="150px">I am currently a Third Year student at BML Munjal pursuing my B.Tech degree in Computer Science Engineering.</p>
+<p align="center" width="150px">I am currently a Final Year student at BML Munjal pursuing my B.Tech degree in Computer Science Engineering.</p>
 </p>
 <br>
 
