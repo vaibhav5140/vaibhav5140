@@ -8,9 +8,17 @@
 <br>
   
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
-
 <br>
-<p align="center" width="150px">I am currently a Final Year student at BML Munjal pursuing my B.Tech degree in Computer Science Engineering.</p>
+   <p align="left">
+      👨‍💻 Currently: Software Engineer at Amazon, Cambridge UK<br>
+      🔙 Previously: Backend Developer at GoodLives<br><br>
+      🏆 Hackathon Achievements:<br>
+      • Airbus Aerothon 6.0 Winner<br>
+      • Flipkart Grid 5.0 Finalist<br>
+      • Airbus Aerothon 5.0 Finalist<br><br>
+      🎓 Education:<br>
+      B.Tech in Computer Science Engineering from BML Munjal University (2020-2024)
+    </p>
 </p>
 <br>
 
