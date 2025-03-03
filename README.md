@@ -4,7 +4,7 @@
 <h1 align="center">Hi👋 , I'm Vaibhav Ahuja</h1>
 
 <p align="right">
-  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Back+End+Developer;Tech+Enthusiast;CSE+Undergrad"/>
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=Software+Engineer;Back+End+Developer;Tech+Enthusiast;CSE+Undergrad"/>
 <br>
   
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
