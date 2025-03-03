@@ -10,7 +10,7 @@
 <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
 <br>
    <p align="left">
-      👨‍💻 Currently: Software Engineer at Amazon, Cambridge UK<br>
+      👨‍💻 Currently: Software Development Engineer at Amazon, Cambridge UK<br>
       🔙 Previously: Backend Developer at GoodLives<br><br>
       🏆 Hackathon Achievements:<br>
       • Airbus Aerothon 6.0 Winner<br>
